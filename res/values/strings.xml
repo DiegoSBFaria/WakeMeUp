@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WakeMeUpActivity!</string>
+    <string name="app_name">WakeMeUp</string>
+    <string name="search">Buscar</string>
+    <string name="type_address">Digite o seu destino.</string>
+    <string name="confirm">Confirmar</string>
+    <string name="searching">Buscando endereços...</string>
+</resources>
